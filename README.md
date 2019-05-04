@@ -27,3 +27,5 @@ npm install http fs formidable ip
 
 Download the source as a .zip file and run "npm install" from the command line. After installation, run the batch file "run_server.bat". This will start the server. If you want to run the server at startup, this will have to be done manually.
 The "content" folder in the source is where files and folders are stored. You can add, delete, and change files manually, or add and view them from client devices.
+
+IMPORTANT: Make an exception in your firewall for Homedia or you may not be able to connect to the Homedia server.
